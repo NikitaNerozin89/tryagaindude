@@ -16,6 +16,7 @@
 		8C1987FC25A110DA00C93E46 /* Constants.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8C1987FB25A110DA00C93E46 /* Constants.swift */; };
 		8C1987FF25A114BC00C93E46 /* Video.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8C1987FE25A114BC00C93E46 /* Video.swift */; };
 		8C19880625A1229800C93E46 /* model.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8C19880525A1229800C93E46 /* model.swift */; };
+		8C5161B125A261A600F8A6EE /* ConstantsTemplateswift.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8C5161B025A261A600F8A6EE /* ConstantsTemplateswift.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -30,6 +31,7 @@
 		8C1987FB25A110DA00C93E46 /* Constants.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Constants.swift; sourceTree = "<group>"; };
 		8C1987FE25A114BC00C93E46 /* Video.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Video.swift; sourceTree = "<group>"; };
 		8C19880525A1229800C93E46 /* model.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = model.swift; sourceTree = "<group>"; };
+		8C5161B025A261A600F8A6EE /* ConstantsTemplateswift.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ConstantsTemplateswift.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -70,6 +72,7 @@
 				8C1987F125A1047D00C93E46 /* LaunchScreen.storyboard */,
 				8C1987F425A1047D00C93E46 /* Info.plist */,
 				8C1987FB25A110DA00C93E46 /* Constants.swift */,
+				8C5161B025A261A600F8A6EE /* ConstantsTemplateswift.swift */,
 				8C1987FE25A114BC00C93E46 /* Video.swift */,
 				8C19880525A1229800C93E46 /* model.swift */,
 			);
@@ -150,6 +153,7 @@
 				8C19880625A1229800C93E46 /* model.swift in Sources */,
 				8C1987E725A1047C00C93E46 /* AppDelegate.swift in Sources */,
 				8C1987E925A1047C00C93E46 /* SceneDelegate.swift in Sources */,
+				8C5161B125A261A600F8A6EE /* ConstantsTemplateswift.swift in Sources */,
 				8C1987FC25A110DA00C93E46 /* Constants.swift in Sources */,
 				8C1987FF25A114BC00C93E46 /* Video.swift in Sources */,
 			);
